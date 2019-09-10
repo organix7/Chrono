@@ -1,0 +1,32 @@
+.timer{
+  color:blue;
+  font-Size:150px;
+  border-Style:solid;
+  border-Width:5px;
+  background-color:black;
+  width: 750px
+}
+.chrono-good{
+  color:green;
+  font-Size:150px;
+  border-Style:solid;
+  border-Width:5px;
+  background-color:black;
+  width: 750px
+}
+.chrono-bad{
+  color:red;
+  font-Size:150px;
+  border-Style:solid;
+  border-Width:5px;
+  background-color:black;
+  width: 750px
+}
+.chrono-finish{
+  color:white;
+  font-Size:150px;
+  border-Style:solid;
+  border-Width:5px;
+  background-color:black;
+  width: 750px
+}
